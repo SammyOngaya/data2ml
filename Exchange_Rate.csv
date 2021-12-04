@@ -1,14 +1,6 @@
 ,provider,base,date,time_last_updated,rates
-<<<<<<< HEAD
-AED,https://www.exchangerate-api.com,USD,2021-12-03,1638489602,3.67
-AFN,https://www.exchangerate-api.com,USD,2021-12-03,1638489602,96.17
-ALL,https://www.exchangerate-api.com,USD,2021-12-03,1638489602,107.02
-AMD,https://www.exchangerate-api.com,USD,2021-12-03,1638489602,488.08
-ANG,https://www.exchangerate-api.com,USD,2021-12-03,1638489602,1.79
-=======
-AED,https://www.exchangerate-api.com,USD,2021-12-02,1638403201,3.67
-AFN,https://www.exchangerate-api.com,USD,2021-12-02,1638403201,96.34
-ALL,https://www.exchangerate-api.com,USD,2021-12-02,1638403201,107.32
-AMD,https://www.exchangerate-api.com,USD,2021-12-02,1638403201,487.66
-ANG,https://www.exchangerate-api.com,USD,2021-12-02,1638403201,1.79
->>>>>>> 1927b279531ca2f1e6e1dcde22aa2969f61b75ed
+AED,https://www.exchangerate-api.com,USD,2021-12-04,1638576002,3.67
+AFN,https://www.exchangerate-api.com,USD,2021-12-04,1638576002,96.17
+ALL,https://www.exchangerate-api.com,USD,2021-12-04,1638576002,107.02
+AMD,https://www.exchangerate-api.com,USD,2021-12-04,1638576002,489.42
+ANG,https://www.exchangerate-api.com,USD,2021-12-04,1638576002,1.79
