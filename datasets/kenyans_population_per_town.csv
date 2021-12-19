@@ -1,0 +1,54 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Nairobi,-1.2864,36.8172,Kenya,KE,Nairobi City,primary,5545000,5545000
+Meru,0.0500,37.6500,Kenya,KE,Meru,admin,1833000,1833000
+Mombasa,-4.0500,39.6667,Kenya,KE,Mombasa,admin,1200000,1200000
+Kisumu,-0.1000,34.7500,Kenya,KE,Kisumu,admin,409928,409928
+Nakuru,-0.2833,36.0667,Kenya,KE,Nakuru,admin,307990,307990
+Eldoret,0.5167,35.2833,Kenya,KE,Uasin Gishu,admin,193830,193830
+Machakos,-1.5167,37.2667,Kenya,KE,Machakos,admin,114109,114109
+Kisii,-0.6698,34.7675,Kenya,KE,Kisii,admin,112417,112417
+Mumias,0.3333,34.4833,Kenya,KE,Kakamega,,99987,99987
+Thika,-1.0396,37.0900,Kenya,KE,Kiambu,,99322,87821
+Nyeri,-0.4167,36.9500,Kenya,KE,Nyeri,admin,98908,98908
+Malindi,-3.2100,40.1000,Kenya,KE,Kilifi,,94016,68304
+Kakamega,0.2833,34.7500,Kenya,KE,Kakamega,admin,91778,91778
+Kendu Bay,-0.3596,34.6400,Kenya,KE,Homa Bay,,91248,91248
+Lodwar,3.1167,35.6000,Kenya,KE,Turkana,admin,82970,82970
+Athi River,-1.4500,36.9833,Kenya,KE,Machakos,,81302,81302
+Kilifi,-3.6333,39.8500,Kenya,KE,Kilifi,,80339,46118
+Sotik,-0.6796,35.1200,Kenya,KE,Bomet,,71285,2600
+Garissa,-0.4569,39.6583,Kenya,KE,Garissa,admin,65881,65881
+Kitale,1.0167,35.0000,Kenya,KE,Trans Nzoia,admin,63245,63245
+Bungoma,0.5666,34.5666,Kenya,KE,Bungoma,admin,55857,55857
+Isiolo,0.3500,37.5833,Kenya,KE,Isiolo,admin,45989,45989
+Wajir,1.7500,40.0667,Kenya,KE,Wajir,admin,45771,34709
+Embu,-0.5333,37.4500,Kenya,KE,Embu,admin,41092,41092
+Voi,-3.3696,38.5700,Kenya,KE,Taita/Taveta,,36487,19624
+Homa Bay,-0.5167,34.4500,Kenya,KE,Homa Bay,admin,32174,32174
+Nanyuki,0.0167,37.0667,Kenya,KE,Laikipia,,31577,31577
+Busia,0.4608,34.1108,Kenya,KE,Busia,admin,30777,30777
+Mandera,3.9167,41.8333,Kenya,KE,Mandera,admin,30433,30433
+Kericho,-0.3692,35.2839,Kenya,KE,Kericho,admin,30023,30023
+Kitui,-1.3667,38.0167,Kenya,KE,Kitui,admin,29062,29062
+Maralal,1.1000,36.7000,Kenya,KE,Samburu,admin,20841,20841
+Lamu,-2.2686,40.9003,Kenya,KE,Lamu,admin,18382,18382
+Kapsabet,0.2000,35.1000,Kenya,KE,Nandi,admin,17918,17918
+Marsabit,2.3333,37.9833,Kenya,KE,Marsabit,admin,17127,17127
+Hola,-1.5000,40.0300,Kenya,KE,Tana River,admin,6931,6931
+Kiambu,-1.1714,36.8356,Kenya,KE,Kiambu,admin,,
+Kabarnet,0.4919,35.7430,Kenya,KE,Baringo,admin,,
+Migori,-1.0634,34.4731,Kenya,KE,Migori,admin,,
+Kerugoya,-0.4989,37.2803,Kenya,KE,Kirinyaga,admin,,
+Iten,0.6703,35.5081,Kenya,KE,Elgeyo/Marakwet,admin,,
+Nyamira,-0.5633,34.9358,Kenya,KE,Nyamira,admin,,
+Murang’a,-0.7210,37.1526,Kenya,KE,Murang’a,admin,,
+Sotik Post,-0.7813,35.3416,Kenya,KE,Bomet,admin,,
+Siaya,0.0607,34.2881,Kenya,KE,Siaya,admin,,
+Kapenguria,1.2389,35.1119,Kenya,KE,West Pokot,admin,,
+Wote,-1.7808,37.6288,Kenya,KE,Makueni,admin,,
+Mwatate,-3.5050,38.3772,Kenya,KE,Taita/Taveta,admin,,
+Kajiado,-1.8500,36.7833,Kenya,KE,Kajiado,admin,,
+Ol Kalou,-0.2643,36.3788,Kenya,KE,Nyandarua,admin,,
+Narok,-1.0833,35.8667,Kenya,KE,Narok,admin,,
+Kwale,-4.1737,39.4521,Kenya,KE,Kwale,admin,,
+Rumuruti,0.2725,36.5381,Kenya,KE,Laikipia,admin,,
